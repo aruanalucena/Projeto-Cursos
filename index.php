@@ -20,7 +20,7 @@
     $cursos = [ "Full stack"=>["Curso de desenvolvimento web", 1000.99,  "full.jpeg", "fullstack"],
     "marketing digital"=>["curso de marketing", 1000.98, "marketing.jpg","marketing"],
     "ux" => ["curso de user experience",9000.98,"ux.jpg","ux"],
-    "mobile android"=>["curso de apps",1000,97,"android.jpg","android"],
+    "android"=>["curso de apps",1000.97,"android.jpg","android"],
 
 
 ];
