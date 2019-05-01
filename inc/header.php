@@ -4,9 +4,9 @@ $nomeLogado = $_SESSION["nome"];
 $emailLogdo = $_SESSION["email"];
 $nivelAcesso = $_SESSION["nivelAcesso"];
 
-if (!isset($_SESSION["logado"])){
-    header("location:login.php");
-}
+// if (!isset($_SESSION["logado"])){
+//     header("location:login.php");
+// }
 ?>
 
 <header>
